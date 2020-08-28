@@ -1,6 +1,5 @@
 const axios = require('axios');
 
-// See README for an explanation of why this line is needed
 const MAP_KEY = 'put your Google Geocoding API key here';
 
 const location = process.argv[2];
