@@ -1,5 +1,5 @@
 {
-  "name": "LambdaWeather",
+  "name": "NYUCourantInstituteWeather",
   "version": "1.0.0",
   "description": "Send the following day's weather forecast to your phone each night",
   "main": "index.js",
@@ -7,7 +7,7 @@
 
   },
   "keywords": [],
-  "author": "phil.b.zona@gmail.com",
+  "author": "hv434@nyu.edu",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.18.0"
