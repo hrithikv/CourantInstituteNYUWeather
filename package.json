@@ -1,7 +1,7 @@
 {
   "name": "NYUCourantInstituteWeather",
   "version": "1.0.0",
-  "description": "This is an AWS Lambda function that runs each night to send you the following day's weather forecast so you can plan your day accordingly.",
+  "description": "An AWS Lambda function running daily to give the next day's weather.",
   "main": "index.js",
   "scripts": {
 
